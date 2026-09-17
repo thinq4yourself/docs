@@ -1,0 +1,53 @@
+# Classroom Only Blocklist
+# Format: hosts
+# Last reviewed: 2026-06-17
+# Purpose: blocks classroom-style mirrors, GitHub Pages mirrors, and unblocked game brands
+
+# Unblocked games brands
+unblockedgames66.net
+unblockedgames66.org
+unblockedgames66.com
+unblockedgames76.net
+unblockedgames77.net
+unblockedgames911.net
+unblockedgameswtf.com
+unblockedgamesworld.com
+unblockedgamespremium.com
+unblockedgames24h.com
+unblockedgames333.com
+unblockedgamespod.com
+unblockedgames66ez.com
+unblockedgamesx.github.io
+unblockedfreegames.github.io
+unblockedhub.github.io
+
+# Classroom-style mirrors
+classroom6x.org
+classroom6x.net
+classroom6x.co
+classroom6x.gg
+classroom6x.lol
+classroom10x.com
+classroom15x.com
+classroom20x.com
+classroom30x.com
+classroom60x.com
+classroom80x.com
+classroom100x.com
+classroomgames6x.com
+
+# GitHub Pages mirrors commonly used for school bypass
+ubg365.github.io
+ubg44.github.io
+ubg98.github.io
+ubg100.github.io
+ubg89.github.io
+duckmath.github.io
+hoodamath-games.github.io
+ubghyper.github.io
+3kh0.github.io
+3kh0games.gitlab.io
+
+# Browser game proxy hubs (unblocked-games proxies)
+selenite.cc
+interstellar.lol
