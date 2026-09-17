@@ -1,0 +1,83 @@
+# VPN Software Blocklist
+# Format: hosts
+# Last reviewed: 2026-03-12
+# Note: one.one.one.one (Cloudflare DNS resolver) was removed — it is not a VPN product.
+#       Cloudflare WARP is blocked via cloudflareclient.com and warp.cloudflare.com below.
+# Purpose: blocks common VPN product and download domains used to install VPN software on school devices
+
+# Commercial VPN services
+nordvpn.com
+www.nordvpn.com
+surfshark.com
+www.surfshark.com
+expressvpn.com
+www.expressvpn.com
+protonvpn.com
+www.protonvpn.com
+ipvanish.com
+www.ipvanish.com
+hide.me
+www.hide.me
+purevpn.com
+www.purevpn.com
+astrill.com
+www.astrill.com
+vyprvpn.com
+www.vyprvpn.com
+pia.com
+www.pia.com
+privateinternetaccess.com
+www.privateinternetaccess.com
+cyberghostvpn.com
+www.cyberghostvpn.com
+mullvad.net
+www.mullvad.net
+windscribe.com
+www.windscribe.com
+tunnelbear.com
+www.tunnelbear.com
+hotspotshield.com
+www.hotspotshield.com
+ivpn.net
+www.ivpn.net
+hidemyass.com
+www.hidemyass.com
+
+# Cloudflare WARP
+cloudflareclient.com
+www.cloudflareclient.com
+warp.cloudflare.com
+
+# Free and browser-focused VPNs
+betternet.co
+www.betternet.co
+hola.org
+www.hola.org
+browsec.com
+www.browsec.com
+zenmate.com
+www.zenmate.com
+setupvpn.com
+www.setupvpn.com
+safeshellvpn.com
+www.safeshellvpn.com
+zoogvpn.com
+www.zoogvpn.com
+urban-vpn.com
+www.urban-vpn.com
+psiphon.ca
+www.psiphon.ca
+psiphon3.com
+www.psiphon3.com
+lantern.io
+www.lantern.io
+ultrasurf.us
+www.ultrasurf.us
+
+# VPN protocols and client downloads commonly abused for manual setup
+openvpn.net
+www.openvpn.net
+wireguard.com
+www.wireguard.com
+softether.org
+www.softether.org
