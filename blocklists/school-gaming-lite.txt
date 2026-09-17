@@ -1,0 +1,55 @@
+# School Gaming Lite Blocklist
+# Format: hosts
+# Last reviewed: 2026-06-17
+# Purpose: smaller starter list for common school gaming domains
+
+# Major browser game portals
+crazygames.com
+www.crazygames.com
+poki.com
+www.poki.com
+friv.com
+www.friv.com
+y8.com
+coolmathgames.com
+silvergames.com
+armorgames.com
+kongregate.com
+miniclip.com
+addictinggames.com
+gamepix.com
+gameflare.com
+kevin.games
+kbhgames.com
+
+# Common .io games
+bloxd.io
+slither.io
+agar.io
+krunker.io
+moomoo.io
+shellshock.io
+starblast.io
+skribbl.io
+smashkarts.io
+1v1.lol
+deadshot.io
+
+# High-volume school bypass domains
+unblockedgames66.net
+unblockedgames76.net
+unblockedgames911.net
+classroom6x.gg
+classroom10x.com
+classroom30x.com
+ubg365.github.io
+ubg44.github.io
+unblockedgames66ez.com
+3kh0.github.io
+selenite.cc
+
+# Frequent distractions
+myinstants.com
+soundboardguy.com
+101soundboards.com
+now.gg
