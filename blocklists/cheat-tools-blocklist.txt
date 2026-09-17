@@ -1,0 +1,70 @@
+# Cheat and Tools Blocklist
+# Format: hosts
+# Last reviewed: 2026-03-12
+# Purpose: blocks cheating tools, automation tools, and related bypass utilities often used on school devices
+
+# Auto clickers and automation tools
+opautoclicker.com
+www.opautoclicker.com
+gs-auto-clicker.com
+www.gs-auto-clicker.com
+autoclicker.io
+autoclicker.org
+autoclicker.com
+www.autoclicker.com
+autoclick.app
+www.autoclick.app
+gcautoclicker.com
+www.gcautoclicker.com
+rewasd.com
+www.rewasd.com
+
+# Macro and scripting tools
+autohotkey.com
+www.autohotkey.com
+tinytask.net
+www.tinytask.net
+puloversmacrocreator.com
+www.puloversmacrocreator.com
+
+# Roblox executors and exploit portals
+wearedevs.net
+www.wearedevs.net
+krnl.place
+xsynapse.com
+www.xsynapse.com
+solara.to
+www.solara.to
+lunexmods.cc
+www.lunexmods.cc
+xeno.gg
+www.xeno.gg
+fluxteam.net
+www.fluxteam.net
+trigon.to
+www.trigon.to
+
+# Gaming overlay and cheat tools
+# wave.gg: general gaming overlay/cheat tool, not Roblox-specific
+wave.gg
+www.wave.gg
+
+# Trainers, cheat engines, and modding tools commonly used by students
+cheatengine.org
+www.cheatengine.org
+wemod.com
+www.wemod.com
+plitch.com
+www.plitch.com
+cheathappens.com
+www.cheathappens.com
+megadev.net
+www.megadev.net
+alltrainerspc.com
+www.alltrainerspc.com
+fearlessrevolution.com
+www.fearlessrevolution.com
+trainer.land
+www.trainer.land
+vgtrainers.com
+www.vgtrainers.com
